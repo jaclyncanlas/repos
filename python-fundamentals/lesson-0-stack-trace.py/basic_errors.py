@@ -108,3 +108,4 @@ print(average)
 # of 'count'. I'll inspect state by printing out the value of count, and we see that it is zero. By mathematical principles, the code cannot divide by zero, so it crashes. 
 # To fix this, we can assign a non-zero value to count. The exact value depends on problem context. Just for simplicity, let's assign the smallest integer value to count, which 
 # is 1. Then re-run it.
+
