@@ -44,4 +44,4 @@ add_expense(expenses, "transportation", 15.00)
 add_expense(expenses, "entertainment", 40.00)
 add_expense(expenses, "food", 30.50)        
 print_summary(expenses)
-# A*: wouldn't it be more effiecient to have all the values added up instead of iterating twice?
+# A*: wouldn't it be more efficient to have all the values added up instead of iterating twice?
